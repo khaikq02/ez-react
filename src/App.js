@@ -3,7 +3,7 @@ import ColorBox from "./components/ColorBox";
 function App() {
   return (
     <div>
-      <ColorBox />
+      <ColorBox color="green" />
     </div>
   );
 }
