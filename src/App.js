@@ -1,9 +1,9 @@
-import ColorBox from "./components/ColorBox";
+import Todo from "./features/Todo/index";
 
 function App() {
   return (
     <div>
-      <ColorBox color="red" />
+      <Todo />
     </div>
   );
 }
